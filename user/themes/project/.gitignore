@@ -1,0 +1,6 @@
+/node_modules
+/libs
+/node_modules/
+/libs/
+/assets/styleguide/
+*.map

@@ -1,0 +1,18 @@
+.pager {
+    display: flex;
+    justify-content: center;
+	margin: var( --vgap-mx) auto;
+	list-style: none;
+	text-align: center;
+    color: #aaa;
+
+    &__item {
+        display: inline-block;
+    }
+
+    &__link,
+    &__text {
+        display: inline-block;
+        padding: .25em 1em;
+    }
+}

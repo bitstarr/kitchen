@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    <div class="card__list">
+        {% for child in page.collection() %}
+            {% include 'partials/card.html.twig' with { page: child } %}
+        {% endfor %}
+    </div>
+
+    {% if config.plugins.pagination.enabled and page.collection.params.pagination %}
+        <div id="listing-footer">
+            {% include 'partials/pagination.html.twig' with {base_url: page.url, pagination: collection.params.pagination} %}
+        </div>
+    {% endif %}
+
+    {% include 'partials/tagcloud.html.twig' %}
+
+{% endblock %}

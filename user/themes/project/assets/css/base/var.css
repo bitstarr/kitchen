@@ -1,0 +1,39 @@
+/* stylelint-disable */
+html{
+    --font-stack: Source Serif Pro, BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+    --wrapper: 60ch;
+    --gap: 1.25rem;
+    --gap-half: .625rem;
+    --gap-x2: 2.5rem;
+
+    --vgap: .625rem;
+    --vgap-md: 1rem;
+    --vgap-mx: 2rem;
+
+    @media(min-width: 40em) {
+        --vgap: 1.25rem;
+        --vgap-md: 2rem;
+        --vgap-mx: 4rem;
+    }
+
+    --green:    #008566;
+
+    --grey: #707070;
+    --grey-80: #b3b3b3;
+    --grey-60: #d8d8d8;
+    --grey-40: #f0f0f0;
+    --grey-20: #f7f7f7;
+
+
+    --brand-color: var( --green );
+    --text-default: #333;
+    --text-muted: var( --grey );
+    --link-color: var( --green );
+
+    --body-bg: #fefbe1;
+    --body-bg: #f9eddc;
+
+    --border-color: var( --grey-60 );
+}
+/* stylelint-endable */

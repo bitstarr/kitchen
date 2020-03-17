@@ -1,0 +1,19 @@
+.card {
+    width: calc( 50% - var( --gap-half ) );
+    margin-bottom: var( --gap-x2 );
+
+    &__list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: var( --wrapper );
+        margin: var( --vgap-mx ) auto;
+    }
+
+    &__title {
+        margin-bottom: var( --gap-half );
+        font-size: 1.2em;
+        line-height: 1.1;
+        text-align: center;
+    }
+}

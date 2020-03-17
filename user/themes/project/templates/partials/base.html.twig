@@ -1,0 +1,61 @@
+{% set body_classes = ( page.header.body_classes ~ ' ' ~ body_classes|default( '' ) )|trim %}
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
+<head>
+{% block head %}
+    <meta charset="utf-8" />
+    <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="canonical" href="{{ page.url(true, true) }}" />
+{% endblock head %}
+
+{% block stylesheets %}
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;700&display=swap" rel="stylesheet">
+    {% do assets.addCss('theme://dist/css/main.css', 100) %}
+{% endblock %}
+
+{% block javascripts %}
+    {% if theme_var('production-mode') == false %}
+        {% do assets.addJs('theme://node_modules/ruleemall/emeter.js', {group:'bottom'}) %}
+    {% endif %}
+{% endblock %}
+
+{% block assets deferred %}
+    {{ assets.css()|raw }}
+    {{ assets.js()|raw }}
+{% endblock %}
+</head>
+<body id="top" class="{{ body_classes }}">
+
+{% block header %}
+    <header class="header">
+        <div class="wrapper">
+            <a class="logo" href="{{ home_url }}">
+                {{ svg('ph00d', 'icon logo__img', { 'title': 'Kitchen' }) }}
+            </a>
+        </div>
+    </header>
+{% endblock %}
+
+{% block hero %}
+    {% if page.header.hero_image %}
+        {% include 'partials/hero.html.twig' %}
+    {% endif %}
+{% endblock %}
+
+{% block body %}
+    <main class="main">
+        {% block content %}{% endblock %}
+    </main>
+{% endblock %}
+
+{% block footer %}
+{% endblock %}
+
+{% block bottom %}
+    {{ assets.js('bottom')|raw }}
+{% endblock %}
+</body>
+</html>

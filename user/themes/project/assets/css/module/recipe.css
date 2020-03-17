@@ -1,0 +1,89 @@
+.recipe {
+    margin: auto;
+
+    &__title {
+        max-width: 60rem;
+        margin: var( --vgap-mx ) auto var( --vgap-md );
+        padding: 0 2rem;
+        font-size: 2em;
+        font-weight: 700;
+        line-height: 1.1;
+        text-align: center;
+    }
+
+    &__meta {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        padding: 0 var( --gap ) var( --gap );
+
+        &__item {
+            margin: var( --gap-half );
+            text-align: center;
+        }
+
+        &::before {
+            content: '';
+            position: absolute;
+            top: calc( var( --vgap ) * -1);
+            left: 50%;
+            transform: translateX( -50% );
+            width: 80%;
+            max-width: 25em;
+            border-top: 1px solid var( --brand-color );
+        }
+
+        .label {
+            white-space: nowrap;
+        }
+    }
+
+    &__tags {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0 var( --gap );
+    }
+
+    &__content {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: var( --wrapper );
+        margin: var( --vgap-mx ) auto;
+    }
+
+    &__content__item {
+        flex: 1 1 50ch;
+        margin: 0 1em;
+    }
+
+    &__ingredients {
+        flex-basis: 30ch;
+        margin-bottom: var( --vgap-md );
+
+        li + li {
+            margin-top: .3em;
+        }
+    }
+
+    &__method {
+        li + li {
+            margin-top: 1ch;
+        }
+    }
+
+    .source {
+        font-size: .85em;
+    }
+
+    @media (min-width: 35em) {
+        &__title {
+            font-size: 3em;
+        }
+    }
+    @media (min-width: 55em) {
+        &__content {
+            max-width: 90ch;
+        }
+    }
+}

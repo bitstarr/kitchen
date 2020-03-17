@@ -1,0 +1,40 @@
+{% set pagination = pagination|default(page.collection.params.pagination) %}
+{% set base_url = base_url|default(page.url) %}
+
+{% if pagination|length > 1 %}
+
+<ul class="pager">
+    {% if pagination.hasPrev %}
+        {% set url =  (base_url ~ pagination.params ~ pagination.prevUrl)|replace({'//':'/'}) %}
+        <li class="pager__item">
+            <a class="pager__link" rel="prev" href="{{ url }}">&laquo;</a>
+        </li>
+    {% endif %}
+
+    {% for paginate in pagination %}
+
+        {% if paginate.isCurrent %}
+            <li class="pager__item">
+                <span class="pager__text active">{{ paginate.number }}</span>
+            </li>
+        {% elseif paginate.isInDelta %}
+            {% set url = (base_url ~ pagination.params ~ paginate.url)|replace({'//':'/'}) %}
+            <li class="pager__item">
+                <a class="pager__link" href="{{ url }}">{{ paginate.number }}</a>
+            </li>
+        {% elseif paginate.isDeltaBorder %}
+            <li class="pager__item pager__item--gap">
+                <span class="pager__text" >&hellip;</span>
+            </li>
+        {% endif %}
+
+    {% endfor %}
+    {% if pagination.hasNext %}
+        {% set url = (base_url ~ pagination.params ~ pagination.nextUrl)|replace({'//':'/'}) %}
+        <li class="pager__item">
+            <a class="pager__link" rel="next" href="{{ url }}">&raquo;</a>
+        </li>
+    {% endif %}
+</ul>
+
+{% endif %}

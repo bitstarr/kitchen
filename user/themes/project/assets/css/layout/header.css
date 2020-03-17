@@ -1,0 +1,8 @@
+.header {
+    padding-top: var( --vgap-md );
+    text-align: center;
+}
+
+.logo {
+    font-size: 2em;
+}

@@ -1,0 +1,16 @@
+home:
+  alias: '/recipes'
+
+pages:
+  theme: project
+  markdown:
+    extra: true
+  process:
+    markdown: true
+    twig: true
+
+session:
+  initialize: false
+  name: grav-site
+
+pwd_regex: '.*'

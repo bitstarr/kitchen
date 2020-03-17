@@ -1,0 +1,49 @@
+{% set labels = {
+    'servings': 'Portionen',
+    'prep': 'Vorbereitungszeit',
+    'wait': 'Ruhezeit',
+    'cook': 'Kochzeit',
+} %}
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="recipe">
+    <h1 class="recipe__title">{{ page.title }}</h1>
+    <ul class="recipe__meta">
+        {% for key,meta in header.meta %}
+        <li class="recipe__meta__item">
+            {{ svg( key, 'icon', { title: labels[key] } ) }}
+            <span class="label">{{ meta }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+    <ul class="recipe__tags">
+        {% for tag in header.taxonomy.tag %}
+            <li class="tag">
+                {{ tag }}
+            </li>
+        {% endfor %}
+    </ul>
+    <div class="recipe__content">
+        <div class="recipe__content__item recipe__ingredients textflow">
+            {{ page.summary }}
+        </div>
+        <div class="recipe__content__item recipe__method textflow">
+            {{ page.content|slice(page.summary|length) }}
+
+            {% if header.source %}
+            <p class="source">
+                {% if header.source matches '~^\/|^https?:\/\/~' %}
+                    <a href="{{ header.source }}">{{ svg('source', 'icon') }} Originalrezept ansehen</a>
+                {% else %}
+                    Originalrezept: {{ header.source }}
+                {% endif %}
+            </p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+{% include 'partials/tagcloud.html.twig' %}
+
+{% endblock %}

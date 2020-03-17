@@ -1,0 +1,53 @@
+title: Media List Item
+@extends:
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        content:
+          type: tab
+
+          #
+          # Add your custom fields here.
+          # These fields will be available in the page's Content tab
+          # inside the Admin Panel.
+          #
+          fields:
+
+            header.meta.servings:
+              type: text
+              label: Portionen
+
+            header.meta.prep:
+              type: text
+              label: Vorbereitungszeit
+
+            header.meta.wait:
+              type: text
+              label: Ruhezeit
+
+            header.meta.cook:
+              type: text
+              label: Kochzeit
+
+            header.source:
+              type: text
+              label: Quelle
+
+            header.date:
+              type: datetime
+              label: PLUGIN_ADMIN.DATE
+              help: PLUGIN_ADMIN.DATE_HELP
+
+            header.taxonomy:
+              type: taxonomy
+              label: PLUGIN_ADMIN.TAXONOMY
+              multiple: true
+              validate:
+                type: array

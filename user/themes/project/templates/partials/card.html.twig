@@ -1,0 +1,26 @@
+<div class="card">
+    {% set image = page.media.images|first %}
+        {% if image %}
+        <div class="card__image">
+            <a href="{{ page.url }}">{{ image.cropZoom(800,400).html|raw }}</a>
+        </div>
+    {% endif %}
+
+    <h2 class="card__title">
+        <a href="{{ page.url }}">
+        {{page.title}}
+        </a>
+    </h2>
+
+    {% if page.taxonomy.tag %}
+        <ul class="tags">
+            {% for tag in page.taxonomy.tag %}
+                <li class="tag">
+                    <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}">
+                    {{ tag }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</div>

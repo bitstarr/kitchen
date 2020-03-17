@@ -1,0 +1,45 @@
+.textflow {
+    & > * + * {
+        margin-top: 1.5rem;
+    }
+    h2 + * {
+        margin-top: 1em;
+    }
+
+    p,
+    ul,
+    ol,
+    dl,
+    table {
+        line-height: 1.4;
+    }
+
+    ul,
+    ol { margin-left: 1em; }
+    li { break-inside: avoid; }
+    ol { list-style: decimal; }
+    ul { list-style: disc; }
+    li ol,
+    li ul { margin-bottom: 0; }
+    li ul { list-style-type: circle; }
+
+    h2 {
+        font-size: 1.8em;
+        font-weight: 700;
+    }
+
+    table {
+        width: 100%;
+    }
+    th,
+    td {
+        padding: .5em;
+    }
+    th {
+        font-weight: 700;
+        border-bottom: 2px solid var( --border-color );
+    }
+    tr + tr td {
+        border-top: 1px solid var( --border-color );
+    }
+}

@@ -1,0 +1,17 @@
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 var( --gap );
+}
+
+.tag {
+    --link-color: var( --text-default );
+    margin: 0 .25em .5em;
+    padding: .3em .5em;
+    font-size: .75em;
+    text-align: center;
+    color: #111;
+    background-color: rgba( 0, 0, 0, .1 );
+    border-radius: 2px;
+}

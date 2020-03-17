@@ -1,0 +1,33 @@
+.tagcloud {
+    max-width: var( --wrapper );
+    margin: var( --vgap-mx ) auto;
+    text-align: center;
+
+    &__title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: var( --gap );
+        font-weight: 700;
+
+        &::before,
+        &::after {
+            content: '';
+            height: 1px;
+            background-color: rgba( 0, 0, 0, .3 );
+            width: 4em;
+        }
+        &::before { margin-right: var( --gap ); }
+        &::after { margin-left: var( --gap ); }
+    }
+
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .link {
+        display: block;
+        padding: 0 var( --gap-half ) var( --gap-half );
+    }
+}
