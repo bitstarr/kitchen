@@ -29,6 +29,8 @@ webserver-configs/
 composer.json
 .htaccess
 robots.txt
+index.php
+
 
 # Dependencies       #
 ######################
