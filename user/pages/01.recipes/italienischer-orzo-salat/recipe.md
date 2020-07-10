@@ -20,7 +20,7 @@ Vinaigrette
 * 1/4 TL Salz
 * 1 Prise Knoblauchpulver
 
-Slat
+Salat
 
 * 250g Orzo (Kritharaki) Nudeln
 * 1 Dose Kichererbsen, abgetropft
