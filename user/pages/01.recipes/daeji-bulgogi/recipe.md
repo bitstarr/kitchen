@@ -11,15 +11,16 @@ taxonomy:
     tag: [Hauptgericht, Asiatisch, Koreanisch]
 ---
 * 500g Schweinelachs
-* 1 Zwiebel
-* 1 Knoblauchzehe
-* 2 EL Ingwer
+* 1 Zwiebel, gewürfelt
+* 1 Knoblauchzehe, fein gehackt
+* 2 EL Ingwer, fein gehackt
+* 1 TL Chiliflocken
 * 3 EL Sojasauce
-* 2 EL Rohrzucker
-* 2 EL Gochujang
 * 2 EL Sake
 * 2 EL Sesamöl
-* 1 TL Chiliflocken
+* 2 EL Rohrzucker
+* 2 EL Gochujang
+* optional: 1 rote Paprika, gewürfelt
 
 ===
 
@@ -36,4 +37,5 @@ Daeji bulgogi kann man auf dem Grill oder in der Pfanne machen und wird normaler
 * Fleisch in schmale Streifen schneiden (ca. 1x6cm)
 * Fleisch in die Marinade geben und 30-60 Minuten einziehen lassen
 * Grillen oder in der Pfanne braten
+* Wenn gewünscht nach erstem Anbraten die Paprika dazu geben und mitbraten
 
