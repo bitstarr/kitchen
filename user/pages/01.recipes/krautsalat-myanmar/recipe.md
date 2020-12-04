@@ -4,7 +4,7 @@ meta:
     servings: 4
     prep: 60 min
 source: https://www.youtube.com/watch?v=Lmhq4mJIjQ4
-date: 12/04/2020 17:00am
+date: 12/04/2020 17:00
 taxonomy:
     tag: [Hauptgericht, Beilage, Asiatisch, Myanmar, Salat]
 ---
