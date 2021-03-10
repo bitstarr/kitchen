@@ -7,6 +7,8 @@ date: 02/18/2019 19:40
 taxonomy:
     tag: [Hauptgericht, Schnell zubereitet]
 ---
+## Zutaten
+
 * 6 große Mais-Tortilla-Wraps
 * 1 Becher Crème fraîche
 * 1 Paprika, gewürfelt

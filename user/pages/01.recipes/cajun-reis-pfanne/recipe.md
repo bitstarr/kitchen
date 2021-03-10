@@ -9,6 +9,8 @@ source: https://www.budgetbytes.com/cajun-sausage-and-rice-skillet/
 taxonomy:
     tag: [Hauptgericht, Cajun, Tex-Mex]
 ---
+## Zutaten
+
 * 400g Andouille Wurst<sup>*</sup>, in Scheiben
 * 1 rote Paprika, gewürfelt
 * 1TL geräuchertes Paprikapulver

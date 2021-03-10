@@ -27,6 +27,9 @@
         font-size: 1.8em;
         font-weight: 700;
     }
+    h3 {
+        font-size: 1.4em;
+    }
 
     table {
         width: 100%;

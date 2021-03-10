@@ -9,8 +9,9 @@ date: 07/10/2020 13:00
 taxonomy:
     tag: [Hauptgericht, Tex-Mex]
 ---
-BBQ Chicken
+## Zutaten
 
+### BBQ Chicken
 * 2 Hähnchenbrüste, in ca 2cm dicke Scheiben halbiert
 * 1/2 TL Geräuchertes Paprikapulver
 * 1/4 TL Knoblauchpulver
@@ -19,8 +20,7 @@ BBQ Chicken
 * 1/2 EL Bratöl
 * 75ml BBQ Sauce
 
-Pizza
-
+### Pizza
 * 1 Pizzateig
 * 150ml BBQ Sauce
 * 150g geriebener Käse

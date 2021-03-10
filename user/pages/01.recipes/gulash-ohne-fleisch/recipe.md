@@ -9,8 +9,9 @@ source: https://youtu.be/jh0anYAoCBU?t=363
 taxonomy:
     tag: [Hauptgericht, Herzhaft]
 ---
-## Knödel
+## Zutaten
 
+### Knödel
 * 150g Petersilie, gehackte
 * 150g Mehl
 * 1/2 TL Salz
@@ -19,8 +20,7 @@ taxonomy:
 * 50ml Olivenöl
 * 1-2 TL Senf
 
-## Sauce
-
+### Sauce
 * 1 Dose gehackte Tomaten
 * 500ml Gemüsebrühe
 * 2 Loorbeerblätter
@@ -28,8 +28,7 @@ taxonomy:
 * 1 EL geräuchertes Paprikapulver
 * 1 rote Chilli, fein gehackt (optional)
 
-## Gulash
-
+### Gulash
 * 1 große Zwiebel, in dünne Scheiben geschnitten
 * 1 große Möhre, in dünne Scheiben geschnitten
 * 1 große rote Paprika, grob gewürfelt

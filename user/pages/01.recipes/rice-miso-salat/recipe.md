@@ -9,6 +9,8 @@ date: 03/20/2020 16:11
 taxonomy:
     tag: [Salat, Asiatisch]
 ---
+## Zutaten
+
 * 1/2 Tasse Reis (mit Brühe gekocht)
 * 2 mittlere rote Paprika
 * 10 lange Riesenbohnen oder eine Hand voll Brechbohnen, 4cm lange Stücke

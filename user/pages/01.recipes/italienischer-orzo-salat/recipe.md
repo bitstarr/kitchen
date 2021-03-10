@@ -9,8 +9,9 @@ date: 07/10/2020 11:14
 taxonomy:
     tag: [Hauptgericht, Salat, Italienisch]
 ---
-Vinaigrette
+## Zutaten
 
+### Vinaigrette
 * 70ml Olivenöl
 * 2 EL Rotweinessig
 * 1 EL Zitronensaft
@@ -20,8 +21,7 @@ Vinaigrette
 * 1/4 TL Salz
 * 1 Prise Knoblauchpulver
 
-Salat
-
+### Salat
 * 250g Orzo (Kritharaki) Nudeln
 * 1 Dose Kichererbsen, abgetropft
 * 150g frischer Spinat, grob geschnitten/gehackt

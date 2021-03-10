@@ -12,7 +12,7 @@
     <ul class="recipe__meta">
         {% for key,meta in header.meta %}
         <li class="recipe__meta__item">
-            {{ svg( key, 'icon', { title: labels[key] } ) }}
+            {{ svg( key, 'icon', { title: labels[key] } )|raw }}
             <span class="label">{{ meta }}</span>
         </li>
         {% endfor %}
@@ -26,15 +26,15 @@
     </ul>
     <div class="recipe__content">
         <div class="recipe__content__item recipe__ingredients textflow">
-            {{ page.summary }}
+            {{ page.summary|raw }}
         </div>
         <div class="recipe__content__item recipe__method textflow">
-            {{ page.content|slice(page.summary|length) }}
+            {{ page.content|slice(page.summary|length)|raw }}
 
             {% if header.source %}
             <p class="source">
                 {% if header.source matches '~^\/|^https?:\/\/~' %}
-                    <a href="{{ header.source }}">{{ svg('source', 'icon') }} Originalrezept ansehen</a>
+                    <a href="{{ header.source }}">{{ svg('source')|raw }} Originalrezept ansehen</a>
                 {% else %}
                     Originalrezept: {{ header.source }}
                 {% endif %}

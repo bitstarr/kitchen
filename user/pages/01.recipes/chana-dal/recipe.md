@@ -9,6 +9,8 @@ date: 03/16/2020 23:41
 taxonomy:
     tag: [Hauptgericht, Indisch]
 ---
+## Zutaten
+
 * 2 Zwiebeln, fein gewürfelt
 * 4 Knoblauchzehen, fein gehackt
 * 1EL Ingwer, fein gehackt

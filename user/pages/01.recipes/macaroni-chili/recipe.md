@@ -9,6 +9,8 @@ date: 03/16/2020 23:02
 taxonomy:
     tag: [Hauptgericht, Tex-Mex, Schnell zubereitet]
 ---
+## Zutaten
+
 * 300g (Vollkorn-) Makaroni/Korkenziehernnudeln, gekocht
 * 200g Soja/Saitan Hack
 * 1 Zwiebel, gewürfelt

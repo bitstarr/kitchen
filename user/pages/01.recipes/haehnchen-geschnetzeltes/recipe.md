@@ -9,6 +9,8 @@ source: https://www.kochbar.de/rezept/64300/saftiges-Haehnchen-Geschnetzeltes.ht
 taxonomy:
     tag: [Hauptgericht, Herzhaft]
 ---
+## Zutaten
+
 * 400g Hähnchengeschnetzeltes
 * 600g Möhren, in dünne Scheiben geschnitten
 * 1 Zwiebel, gewürfelt

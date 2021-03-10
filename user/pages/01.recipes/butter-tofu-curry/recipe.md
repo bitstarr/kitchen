@@ -9,6 +9,7 @@ source: https://youtu.be/jh0anYAoCBU?t=538
 taxonomy:
     tag: [Hauptgericht, Indisch]
 ---
+## Zutaten
 
 * Tofu
 * Stärkepulver

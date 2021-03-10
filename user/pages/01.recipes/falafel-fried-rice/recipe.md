@@ -9,8 +9,9 @@ source: https://www.youtube.com/watch?v=tEaKx_wdzp
 taxonomy:
     tag: [Hauptgericht, Herzhaft, Persisch]
 ---
+## Zutaten
 
-## Reis
+### Reis
 * 1 TL Kreuzkümmelpulver
 * 1 TL Korianderpulver
 * 5 Kapseln grüner Kardamom, gemahlen
@@ -21,7 +22,7 @@ taxonomy:
 * ca. 400ml Wasser
 * Frische Petersilie, Minze und Koriander, fein gehackt
 
-## Sauce
+### Sauce
 * 1 1/2 EL Tahini
 * 2 TL water
 * 100ml Joghurt

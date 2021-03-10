@@ -9,6 +9,8 @@ date: 09/12/2019 17:26
 taxonomy:
     tag: [Hauptgericht, Tex-Mex, Schnell zubereitet]
 ---
+## Zutaten
+
 * 1 EL Chilli Pulver
 * 1 TL Paprikapulver, geräuchert
 * 1TL Kreuzkümmel

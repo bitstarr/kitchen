@@ -9,8 +9,9 @@ source: https://www.budgetbytes.com/easy-cauliflower-and-chickpea-masala/
 taxonomy:
     tag: [Hauptgericht, Indisch]
 ---
-## Gewürzmix
+## Zutaten
 
+### Gewürzmix
 * 2 EL garam Masala
 * 1/2 TL Kreuzkümmel
 * 1/2 TL Kurkuma
@@ -19,8 +20,7 @@ taxonomy:
 * 1/2 TL Salz
 * frisch gemahlenen Pfeffer
 
-## Zutaten
-
+### Zutaten
 * 1 Zwiebel, fein gewürfelt
 * 3 Knoblauchzehen, fein gehackt
 * 1/2 EL Ingwer, fein gehackt

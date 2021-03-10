@@ -9,6 +9,8 @@ source: https://www.budgetbytes.com/simple-creamy-coleslaw/
 taxonomy:
     tag: [Beilage, Salat, Tex-Mex]
 ---
+## Zutaten
+
 * 100ml Mayo
 * 1/2 EL Honig
 * 1 TL Senf

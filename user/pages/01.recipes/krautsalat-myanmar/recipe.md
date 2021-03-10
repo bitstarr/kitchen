@@ -8,6 +8,8 @@ date: 12/04/2020 17:00
 taxonomy:
     tag: [Hauptgericht, Beilage, Asiatisch, Myanmar, Salat]
 ---
+## Zutaten
+
 * 500g Weißkohl (eta 1/2 kleiner Kohl), in dünne Streifen geschnitten <sup>1</sup>
 * Saft einer halben Zitrone
 * 2 TL Fischsauce (alternativ Sojasauce)
