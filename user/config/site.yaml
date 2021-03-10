@@ -1,8 +1,8 @@
 title: The Kitchen
 default_lang: de
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: Sebastian Laube
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  generator: ''
+  description: ''
 
