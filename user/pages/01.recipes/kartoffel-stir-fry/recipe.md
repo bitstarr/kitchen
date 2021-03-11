@@ -1,5 +1,5 @@
 ---
-title: Kartoffel Stir Fry
+title: Kartoffel Julienne Pfanne
 meta:
     servings: 4
     prep: 20 min
