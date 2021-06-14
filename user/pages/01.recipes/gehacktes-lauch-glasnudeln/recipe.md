@@ -14,6 +14,7 @@ taxonomy:
 * 1 Zwiebel, gewürfelt
 * 200g Champignons, gewürfelt
 * 250g Hackfleisch
+* 250g Glasnudeln
 * 1 Knoblauchzehe, fein gehackt
 * 1 TL Ingwer, fein gehackt
 * 1 EL Zitronensaft
