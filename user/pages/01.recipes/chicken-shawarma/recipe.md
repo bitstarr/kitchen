@@ -5,7 +5,7 @@ meta:
     prep: 20 min
     cook: 35 min
 source: https://www.youtube.com/watch?v=F8PGWLvn1mQ
-date: 2021-06-24 28:00
+date: 2021-06-24 18:00
 taxonomy:
     tag: [Hauptgericht, Arabisch, Orientalisch]
 ---
