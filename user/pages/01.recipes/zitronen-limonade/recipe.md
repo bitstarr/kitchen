@@ -5,7 +5,7 @@ meta:
     prep: 10 min
 date: 2021-07-01 18:00
 taxonomy:
-    tag: [Getränk]
+    tag: [Getränke]
 ---
 ## Zutaten für 1 Liter
 
