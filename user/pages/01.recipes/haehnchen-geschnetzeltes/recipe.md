@@ -1,7 +1,7 @@
 ---
 title: Hähnchengeschnetzeltes
 meta:
-    servings: 24
+    servings: 4
     prep: 10 min
     cook: 20 min
 date: 11/15/2020 16:00
