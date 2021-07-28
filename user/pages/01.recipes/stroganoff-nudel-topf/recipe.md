@@ -11,38 +11,26 @@ taxonomy:
 ---
 ## Zutaten
 
-* 500g Schweinelachs
-* 1 Zwiebel, gewürfelt
-* 1 Knoblauchzehe, fein gehackt
-* 2 EL Ingwer, fein gehackt
-* 1 TL Chiliflocken
-* 3 EL Sojasauce
-* 2 EL Sake
-* 2 EL Sesamöl
-* 2 EL Rohrzucker
-* 2 EL Gochujang
-* optional: 1 rote Paprika, gewürfelt
-
-* 1 rote Paprika, in 1cm große Stücke geschnitten
-* 1 Zucchini, in viertel Scheiben geschnitten
-* 1 gelber Kürbis<sup>*</sup>, in viertel Scheiben geschnitten
-* 1–2 Zwiebel, in Spalten geschnitten
-* 600g Hühnchenbrust, in mundgerechte Stücke geschnitten
-* 150g Brechbohnen (gefroren oder frisch), halbiert ohne Spitzen
-* ca. 150g Pesto (z. B. Genovese)
+* 2 Knoblauchzehen, klein gehackt
+* 2 EL Butter
+* 250g Rinderhack
+* 250g Pilze, in Scheiben geschnitten
+* 400ml Rinderbrühe
+* 1 EL Worcestershiresauce
+* 1 EL Senf mittelscharf
+* 250g Farfalle (Eiernudeln)
+* 4 EL Sour Creme
 * Salz und Pfeffer
-* optinal Parmesan
 
 ===
 
-<sup>*</sup> Statt dessen geht auch gelbe Zucchini, Möhren oder Krokkoli.
-
-Pro Tip: Das Fleisch kann auch einfach weggelassen werden.
-
 ## Zubereitung
 
-* Fleisch mit Öl bei mittlerer Hitze in einer großen Pfanne anbraten bis es gleimäßig Farbe bekommen hat (etwa 3–5 Minuten).
-* Wenn die Bohnen gefroren sind, sollte sie nun für 1–2 Minuten mitbraten.
-* Nun Paprika und Zwiebeln (sowie Möhren, wenn gewünscht) dazugeben und 1–2 Minuten braten. Wenn sich Flüssigkeit am Boden sammelt, ruhig die Hitze etwas erhöhen.
-* Zucchini (und ggf. die frischen Bohnen) untermengen und 2–3 Minuten mitbraten bis sie ausreichend weich sind.
-* Hitze abstellen und Pesto untermengen, dass alles gleichmäßig benetzt ist. Noch mit Salz und Pfeffer abschmecken.
+* Bei mittlerer Hitze in einem Topf Knoblauch in Butter anbraten, bis er sein Aroma verbreitet.
+* Das Hackfleisch dazugeben, zerdrücken und braten bis es eine gleichmäßige Farbe hat.
+* Nun die Pilze unterrühren und mit etwas Pfeffer würzen. Das ganze braten, bis die Pilze weich sind (etw 5 Minuten).
+* Die ungekochten Nudeln zusammen mit der Rinderbrühe, Senf und Worcestershiresauce in den Topf geben und mischen. Wenn die Nudeln nicht ganz mit Flüssigkeit bedeckt sind, ist das in Ordnung.
+* Den Deckel auf den Topf und warten bis es kocht (mittlere Hitze). Sobald es kocht, den Topf umrühren und bei schwacher Hitze weiter köcheln lassen.
+* In den 7–10 Minuten gelegentlich umrühren. Danach sollten die Nudeln die Flüssigkeit aufgenommen haben.
+* Wenn die Nudeln weich sind, die Sour Cream unterfalten bis alles cremig ist.
+* Mit Salz, Pfeffer, Senf und Worcestershiresauce abschmecken.

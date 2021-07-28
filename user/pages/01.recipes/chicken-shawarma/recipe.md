@@ -20,7 +20,7 @@ taxonomy:
 * 1/2 EL Salz
 * 1 TL Glutamat
 
-### Huhne und Gemüse Blech
+### Hühnchen und Gemüse Blech
 * 6 große Hühnerkeulen
 * 6 TL Würzmischung (nach Geschmack auch mehr)
 * 2 mittelgroße Kartoffeln, gewürfelt
@@ -47,6 +47,7 @@ taxonomy:
 
 * 1 Handvoll Eisbergsalat, in dünne Strifen geschnitten
 * 4 Lebanesische Khubz (dünnes Fladenbrot)
+
 ===
 
 ## Zubereitung

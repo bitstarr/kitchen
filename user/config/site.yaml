@@ -5,4 +5,8 @@ author:
 metadata:
   generator: ''
   description: ''
-
+summary:
+  enabled: true
+  format: short
+  size: 0
+  delimiter: '==='
