@@ -20,3 +20,5 @@ Thumbs.db
 
 # phpstorm
 .idea/*
+
+package-lock.json
