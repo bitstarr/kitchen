@@ -4,7 +4,7 @@ meta:
     servings: 4
     prep: 15 min
     cook: 20 min
-source: http://www.trifood.com/daejibulgogi.asp
+source: https://www.youtube.com/watch?v=w1_wDf-vUx0&t=630
 date: 2022-04-10 12:00
 taxonomy:
     tag: [Hauptgericht, Mediteran, Herzhaft]
