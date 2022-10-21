@@ -40,14 +40,14 @@ taxonomy:
 
 ===
 
-* Die Chipotle können auch mit Tomatensauce mit 1 TL Chipotle-Pulver oder Sirachia-Sauce Ersetzt werden.
+\* Die Chipotle können auch mit Tomatensauce mit 1 TL Chipotle-Pulver oder Sirachia-Sauce Ersetzt werden.
 
 ## Salsa
 * Alle Zutaten in einer Schüssel vermengen und mit Salz und Pfeffer abschmecken
 
 ## Fajitas
 
-* Zwiebel und Knoblauch in einer Pfanne anschritzen (4-5 Min.)
+* Zwiebel und Knoblauch in einer Pfanne anschwitzen (4-5 Min.)
 * Paprika, Hühnchenimmitat und die Gewürze bei mittlerer Hitze weitere 5 Minuten braten
 * Während dessen die Tortillas einzeln in einer Pfanne oder alle in der Mirkowelle (mit feuchem Papiertuch oben drauf) erwärmen
 * Der Füllung die Chipotles beimengen und 2 Minuten weiterkochen
