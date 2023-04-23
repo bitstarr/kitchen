@@ -42,10 +42,12 @@ taxonomy:
 
 \* Die Chipotle können auch mit Tomatensauce mit 1 TL Chipotle-Pulver oder Sirachia-Sauce Ersetzt werden.
 
-## Salsa
+## Zubereitung
+
+### Salsa
 * Alle Zutaten in einer Schüssel vermengen und mit Salz und Pfeffer abschmecken
 
-## Fajitas
+### Fajitas
 
 * Zwiebel und Knoblauch in einer Pfanne anschwitzen (4-5 Min.)
 * Paprika, Hühnchenimmitat und die Gewürze bei mittlerer Hitze weitere 5 Minuten braten

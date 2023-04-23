@@ -39,7 +39,6 @@ Dieses Rezept kannst du hervorragend variieren. Z. B. wird Kakao als besonderer 
 
 ## Zubereitung
 
-
 * Zunächst in einem großen Topf beide Sorten Fleisch anbraten. Wenn es langsam dunkler wird, die Zwiebeln dazugeben und mitbraten.
 * Sind die Zwiebeln glasig, den Knoblauch in den Topf geben und kurz mitgaren.
 * Bevor der Knoblauch braun und damit bitter wird, die kleine Dose Tomatenmark, die Gemüsebrühe und die Dose Tomaten hinzugeben und verrühren.

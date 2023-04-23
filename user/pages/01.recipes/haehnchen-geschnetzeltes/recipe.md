@@ -31,4 +31,4 @@ taxonomy:
 * Schmand einrühren.
 * Mit Salz und Pfeffer abschmecken.
 
-Dazu Reiz oder Orzo servieren.
+Dazu Reis oder Orzo servieren.

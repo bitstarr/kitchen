@@ -38,6 +38,8 @@ Weitere Toppings:
 
 ===
 
+## Theorie
+
 1. Geeignetes Brot hat die Form eines kleinen Baguettes, ist weich und fluffig.
 2. Gute Balance bei der Feuchtigkeit. Sauerkonserven, Salat und Saucen für das Gleichgewicht.
 3. Trockenes Fleisch mit Senf oder einem saftigeren Fleisch ausgleichen.
