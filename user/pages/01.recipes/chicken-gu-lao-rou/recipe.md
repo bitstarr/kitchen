@@ -23,15 +23,6 @@ taxonomy:
 * 1/2 rote Paprika, grobe Stücke
 * 1/2 gelbe Paprika, grobe Stücke
 * 1/2 grüne Paprika, grobe Stücke
-* 
-* 2 EL Ingwer, fein gehackt
-* 1 TL Chiliflocken
-* 3 EL Sojasauce
-* 2 EL Sake
-* 2 EL Sesamöl
-* 2 EL Rohrzucker
-* 2 EL Gochujang
-* optional: 1 rote Paprika, gewürfelt
 
 ===
 
