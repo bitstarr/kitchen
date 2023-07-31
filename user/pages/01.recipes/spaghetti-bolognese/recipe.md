@@ -32,7 +32,7 @@ taxonomy:
 * Zwiebel, Knoblauch, Möhre und Selerie in den Topf geben und bei mittlerer Hitze anbraten
 * Wenn das Gemüse langsam weich wird das Hackfleisch dazu geben und krümelig anbraten
 * Wenn das Fleisch durch ist, den Rotwein angießen und verkochen lassen
-* Mit Salz und Pfeffer würzen, dann milch unterrühren und alles sämig einkochen
+* Mit Salz und Pfeffer würzen, dann Milch unterrühren und alles sämig einkochen
 * Oregano, Tomaten und Zucker in die Sauce rühren und etwa 30 Minten bei geringer Hitze sanft köcheln
 * An die Spaghetti gedacht?
 * Mit Parmesan servieren
