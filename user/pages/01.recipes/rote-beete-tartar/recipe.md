@@ -1,5 +1,5 @@
 ---
-title: Daeji Bulgogi
+title: Rote Beete Tartar
 meta:
     servings: 2
     prep: 15 min
