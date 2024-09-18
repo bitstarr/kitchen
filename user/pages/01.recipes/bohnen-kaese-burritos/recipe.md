@@ -7,7 +7,7 @@ meta:
 source: https://www.budgetbytes.com/make-ahead-bean-and-cheese-burritos/
 date: 2023-09-29 13:37
 taxonomy:
-    tag: [Hauptgericht, Mexikanisch, Text-Mex]
+    tag: [Hauptgericht, Mexikanisch, Tex-Mex]
 ---
 ## Zutaten
 
