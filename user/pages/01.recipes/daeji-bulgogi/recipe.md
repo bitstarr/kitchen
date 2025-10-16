@@ -6,13 +6,13 @@ meta:
     wait: 30 min
     cook: 10 min
 source: http://www.trifood.com/daejibulgogi.asp
-date: 02/14/2018 11:14am
+date: 2018-02-14 11:14
 taxonomy:
     tag: [Hauptgericht, Asiatisch, Koreanisch]
 ---
 ## Zutaten
 
-* 500g Schweinelachs
+* 500g Schweinelachs, in schmalen Streifen 
 * 1 Zwiebel, gewürfelt
 * 1 Knoblauchzehe, fein gehackt
 * 2 EL Ingwer, fein gehackt
@@ -34,7 +34,6 @@ Daeji bulgogi kann man auf dem Grill oder in der Pfanne machen und wird normaler
 
 ## Zubereitung
 
-* Zwiebel würfeln, Knoblauch und Ingwer fein haken
 * Alles, außer dem Fleisch, in einer Schüssel zu einer Sauce verrühren
 * Fleisch in schmale Streifen schneiden (ca. 1x6cm)
 * Fleisch in die Marinade geben und 30-60 Minuten einziehen lassen
